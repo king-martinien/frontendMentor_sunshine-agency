@@ -1,0 +1,39 @@
+/*
+=======    
+    Colors
+=======
+*/
+/*
+=======    
+    Font Family
+=======
+*/
+/*
+=======    
+    Text size
+=======
+*/
+/*
+=======    
+    Breakpoints
+=======
+*/
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100vh;
+}
+
+body {
+  font-size: 18px;
+  font-family: Barlow;
+}
+/*# sourceMappingURL=style.css.map */

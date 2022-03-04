@@ -1,0 +1,32 @@
+{
+  "name": "sunshine-agency-landing-page",
+  "version": "1.0.0",
+  "description": "In this challenge we implement the mock of the sunshine agency landing page using HTML, CSS & JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/king-martinien/frontendMentor_sunshine-agency.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS",
+    "Landing",
+    "page",
+    "Sunshine",
+    "agency",
+    "challenge",
+    "frontend",
+    "mentor",
+    "newbie"
+  ],
+  "author": "king-martinien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/king-martinien/frontendMentor_sunshine-agency/issues"
+  },
+  "homepage": "https://github.com/king-martinien/frontendMentor_sunshine-agency#readme"
+}
